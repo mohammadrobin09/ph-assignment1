@@ -238,3 +238,41 @@ body{
     font-size: 18px;
     font-weight: 400;
 }
+.footer-section{
+    margin-top: 50px;
+    border: black 2px solid;
+    position: relative;
+    background-color: #070211;
+}
+.footer1{
+    position: absolute;
+    width: 300px;
+    top: 50px;
+    left: 40px;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 40px;
+}
+.footer2{
+    position: absolute;
+    right: 40px;
+    top: 50px;
+}
+.footer2 p{
+    gap: 5px;
+    display: flex;
+    color: white;
+}
+.icon{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.last-text{
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    margin: 200px 40px 40px 40px;
+}
