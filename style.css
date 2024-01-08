@@ -106,3 +106,53 @@ body{
     border-radius: 50%;
     padding: 15px;
 }
+.holiday-section{
+    margin: 110px 40px;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+.holiday-section .p1{
+    color: #070211;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
+.holiday-section h2{
+    margin-top: 5px; 
+    margin-bottom: 20px;
+    font-family: Merriweather;
+    font-size: 65px;
+    font-weight: 900;
+}
+.holiday-section .p2{
+    margin: 0 auto;
+    width: 1068px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 32px;
+}
+.holiday-img{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+}
+.img1{
+  z-index: 1;
+}
+.img2{
+    position: absolute;
+    bottom: 226px;
+    left: 891px;
+}
+.img3{
+    position: absolute;
+    bottom: 0;
+}
+.img4{
+    top: 40px;
+    z-index: 1;
+    position: absolute;
+    left: 730px;
+}
