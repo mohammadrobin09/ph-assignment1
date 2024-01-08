@@ -1,0 +1,108 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+.color-r{color: #F00;}
+.banner{
+    padding: 233px 344px 177px 233px;
+    /* height: 600px; */
+    border-radius: 16px;
+    background-image: url(resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.banner h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
+.banner p{
+    color: #FFF;
+    text-align: center;
+}
+.offer-section{
+    text-align: center;
+}
+.vector-section{
+    padding: 200px 0;
+    background-image: url(resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.vector-section h3{
+    padding: 0 552px 0 126px;
+    color: #FFF;
+    font-size: 60px;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+}
+.vector-section p{
+   padding: 0 637px 0 126px; 
+   color: rgba(255, 255, 255, 0.80);
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+}
+.vector-b{
+    padding-left: 148px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.time-section{
+    margin: 0 40px;
+    padding: 100px 0;
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    text-align: center;
+    border-radius: 8px;
+}
+.time-section p{
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+.btn-j{
+    background-color: #F00;
+    color: #FFF;
+    border: none;
+    padding: 16px 32px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.circel-section{
+    height: 500px;
+    background: #FFF;
+    margin: 0 40px;
+    display: flex;
+    align-items: center;
+    gap: 200px;
+}
+.text-section{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.tittle-section{
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+}
+.tittle-h3{
+    color: #070211;
+    font-size: 35px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.circel-2{
+    border: solid red 8px;
+    border-radius: 50%;
+    padding: 15px;
+}
