@@ -108,6 +108,10 @@ body{
     border-radius: 50%;
     padding: 15px;
 }
+.circel-2 img:hover{
+    border: 2px blue solid;
+    border-radius: 50%;
+}
 .holiday-section{
     margin: 110px 40px;
     align-items: center;
