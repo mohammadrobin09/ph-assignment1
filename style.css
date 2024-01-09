@@ -29,7 +29,7 @@ body{
 }
 .vector-section{
     padding: 200px 0;
-    background-image: url(./'resources/Vectorrr.png');
+    background-image: url('./resources/Vectorrr.png');
     background-repeat: no-repeat;
     background-position: center;
 }
