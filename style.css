@@ -4,23 +4,25 @@ body{
 .color-r{color: #F00;}
 .banner{
     padding: 233px 344px 177px 233px;
-    /* height: 600px; */
+    margin: 0 auto;
     border-radius: 16px;
-    background-image: url(resources/Banner\ Image.png);
+    border-radius: 16px;
+    background-image: url(resources/BannerImage.png);
     background-repeat: no-repeat;
     background-position: center;
-    
 }
 .banner h1{
-    color: #FFF;
     text-align: center;
+    color: #FFF;
     font-size: 72px;
     font-weight: 900;
     line-height: 95px;
 }
-.banner p{
-    color: #FFF;
+.banner h2{
+  
     text-align: center;
+    top: 170px;
+    color: #FFF;
 }
 .offer-section{
     text-align: center;
